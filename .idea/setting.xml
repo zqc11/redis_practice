@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="arthas.idea.plugin">
+    <option name="invokeCount" value="3" />
+    <option name="conditionExpressDisplay" value="true" />
+    <option name="selectProjectName" value="" />
+    <option name="redisAddress" value="" />
+    <option name="redisAuth" value="" />
+    <option name="redisCacheKey" value="" />
+  </component>
+</project>
